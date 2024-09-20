@@ -26,5 +26,4 @@ Auth Token: RH7kIlpRyyfakI3rFFljQSkpQdGKaduy
 
 International number: +1 (646) 783-0121
 
-#**Secret Key:**
 ![image](https://github.com/user-attachments/assets/7c127e03-bb4a-41c1-9154-32d0b9263956)
