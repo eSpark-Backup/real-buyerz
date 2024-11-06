@@ -1,4 +1,10 @@
 # RealBuyerz--
+# **Email and Password Gmail:**
+Email:
+mailto:realbuyerzofficial@gmail.com
+
+PASS:
+eSpark@786
 
 # **Email and Password for Outlook:**
 --
